@@ -1,0 +1,208 @@
+{
+  "texts": {
+    "en": {
+      "author": {
+        "description": {
+          "title": "Description",
+          "content": "From my personal experience, I am available on a regular basis to provide assistance to any developer who requests it.\nOf course my help is limited to the knowledge I have."
+        },
+        "info": {
+          "title": "Author",
+          "content": {
+            "statut": "Professional training trainee",
+            "date": "from 29/11/2022 to 28/11/2023"
+          }
+        },
+        "dyma": "Affiliate link for the dyma.fr platform"
+      },
+      "source": {
+        "why": {
+          "title": "Why !?",
+          "content": "I love nodeJS and I practice this technology as often as possible. I still have gaps but my determination is still the same for this technology."
+        },
+        "philosophie": {
+          "title": "Philosophy",
+          "content": "I am very respectful of the work of my colleagues. Our learning adapts to our rhythm and... we assimilate certain things sometimes faster than others.\n\nIf I have one piece of advice to give, it is to remain humble and never forget where you come from... Let's keep in mind that at some point in our lives we were beginners.\n\nKnowledge is a luxury that must be shared and even if it is quite different between a beginner and an expert but... If the \"beginner\" gives himself the means to succeed then it is certain that we can one day count on his help.\n\nLet's not spit on anyone and continue to help if we can. We'll strengthen our skills and, above all, our knowledge on a subject we're passionate about."
+        }
+      },
+      "qrcode": {
+        "boris": {
+          "content": "Thanks to Boris Flesh on udemy"
+        },
+        "dyma": {
+          "content": "Affiliation to the Dyma.fr platform"
+        }
+      }
+    },
+    "fr": {
+      "author": {
+        "description": {
+          "title": "Description",
+          "content": "Par mon expérience personnel, je suis disponible très régulièrement pour apporter mon aide pour tout développeur qui en ferai la demande.\nBien entendu mon aide se limite aux connaissances que je connais."
+        },
+        "info": {
+          "title": "Auteur",
+          "content": {
+            "statut": "Stagiaire de la formation professionnel",
+            "date": "du 29/11/2022 au 28/11/2023"
+          }
+        },
+        "dyma": "Lien d'affiliation pour la plateforme de dyma.fr"
+      },
+      "source": {
+        "why": {
+          "title": "Pourquoi !?",
+          "content": "J'adore nodeJS et je pratique cette technologie le plus souvent possible. J'ai encore des lacunes mais ma détermination est toujours la même pour cette technologie."
+        },
+        "philosophie": {
+          "title": "Philosophie",
+          "content": "Je suis vachement respectueux du travail de mes confrères. Notre apprentissage s'adapte à notre rythme et... nous assimilons certaines choses parfois plus vite que d'autres.\n\nSi j'ai un conseil à donner, c'est de rester humble en n'oubliant jamais d'où l'on vient... Gardons à l'esprit qu'à un moment donné dans nôtre vie nous avons été débutant.\n\nLa connaissance est un luxe qui se doit d'être partagé et même si celle-ci est assez différente entre un débutant et un expert mais... Si le \"débutant\" se donne les moyens de réussir alors il est certain que que nous pourrons un jour compter sur son aide.\n\nNe crachons sur personne et continuons d'aider si nous le pouvons. Nous renforcerons nos acquis et surtout notre connaissance sur un sujet qui nous passionne."
+        }
+      },
+      "qrcode": {
+        "boris": {
+          "content": "Merci à Boris Flesh sur udemy"
+        },
+        "dyma": {
+          "content": "Affiliation vers la plateforme de Dyma.fr"
+        }
+      }
+    },
+    "es": {
+      "author": {
+        "description": {
+          "title": "Descripciones",
+          "content": "Debido a mi experiencia personal, estoy disponible de forma regular para proporcionar asistencia a cualquier desarrollador que lo solicite.\nPor supuesto, mi ayuda se limita a los conocimientos que tengo."
+        },
+        "info": {
+          "title": "Autor",
+          "content": {
+            "statut": "aprendiz de formación profesional",
+            "date": "del 29/11/2022 al 28/11/2023"
+          }
+        },
+        "dyma": "Enlace de afiliación a la plataforma dyma.fr"
+      },
+      "source": {
+        "why": {
+          "title": "¿Por qué?",
+          "content": "Me encanta nodeJS y practico esta tecnología siempre que puedo. Todavía tengo algunas lagunas, pero mi determinación sigue siendo la misma para esta tecnología."
+        },
+        "philosophie": {
+          "title": "Filosofía",
+          "content": "Soy muy respetuoso con el trabajo de mis colegas. Aprendemos a nuestro propio ritmo y... aprendemos algunas cosas más rápido que otras.\n\nSi tengo un consejo que dar, es el de mantener la humildad y no olvidar nunca de dónde se viene... Tengamos en cuenta que en algún momento de nuestras vidas fuimos principiantes.\n\nEl conocimiento es un lujo que hay que compartir y aunque sea muy diferente entre un principiante y un experto pero... Si el \"principiante\" se da los medios para triunfar, es seguro que un día podremos contar con su ayuda.\n\nNo escupamos a nadie y sigamos ayudando si podemos. Reforzaremos nuestros conocimientos y, sobre todo, los de un tema que nos apasiona."
+        }
+      },
+      "qrcode": {
+        "boris": {
+          "content": "Gracias a Boris Flesh en udemy"
+        },
+        "dyma": {
+          "content": "Afiliación a la plataforma Dyma.fr"
+        }
+      }
+    },
+    "de": {
+      "author": {
+        "description": {
+          "title": "Beschreibungen",
+          "content": "Aufgrund meiner persönlichen Erfahrung stehe ich regelmäßig zur Verfügung, um jedem Entwickler zu helfen, der mich darum bittet.\nSelbstverständlich beschränkt sich meine Hilfe auf die Kenntnisse, die ich habe."
+        },
+        "info": {
+          "title": "Autor",
+          "content": {
+            "statut": "Praktikant der Berufsausbildung",
+            "date": "vom 29.11.2022 bis zum 28.11.2023"
+          }
+        },
+        "dyma": "Affiliate-Link für die Plattform von dyma.de"
+      },
+      "source": {
+        "why": {
+          "title": "Warum !?",
+          "content": "Ich liebe NodeJS und praktiziere diese Technologie so oft wie möglich. Ich habe noch einige Lücken, aber meine Entschlossenheit für diese Technologie ist immer noch dieselbe."
+        },
+        "philosophie": {
+          "title": "Philosophie",
+          "content": "Ich bin sehr respektvoll gegenüber der Arbeit meiner Kollegen. Unser Lernen passt sich unserem Tempo an und ... wir verinnerlichen einige Dinge manchmal schneller als andere.\n\nWenn ich einen Ratschlag geben möchte, dann ist es, bescheiden zu bleiben und nie zu vergessen, woher man kommt... Behalten wir im Hinterkopf, dass wir irgendwann in unserem Leben Anfänger waren.\n\nWissen ist ein Luxus, der geteilt werden muss, und auch wenn sich das Wissen zwischen einem Anfänger und einem Experten unterscheidet, so ist es doch... Wenn der \"Anfänger\" die Mittel hat, um erfolgreich zu sein, dann können wir sicher sein, dass wir eines Tages auf seine Hilfe zählen können.\n\nSpucken wir auf niemanden und helfen wir weiter, wo wir können. Wir werden unsere Fähigkeiten und vor allem unser Wissen über ein Thema, das uns begeistert, erweitern."
+        }
+      },
+      "qrcode": {
+        "boris": {
+          "content": "Vielen Dank an Boris Flesh auf udemy."
+        },
+        "dyma": {
+          "content": "Affiliate zur Plattform von Dyma.fr"
+        }
+      }
+    },
+    "it": {
+      "author": {
+        "description": {
+          "title": "Descrizioni",
+          "content": "Grazie alla mia esperienza personale, sono regolarmente disponibile a fornire assistenza a qualsiasi sviluppatore che ne faccia richiesta.\nNaturalmente il mio aiuto è limitato alle conoscenze che ho."
+        },
+        "info": {
+          "title": "Autore",
+          "content": {
+            "statut": "Tirocinante in formazione professionale",
+            "date": "dal 29/11/2022 al 28/11/2023"
+          }
+        },
+        "dyma": "Link di affiliazione per la piattaforma dyma.fr"
+      },
+      "source": {
+        "why": {
+          "title": "Perché !?",
+          "content": "Amo nodeJS e pratico questa tecnologia il più spesso possibile. Ho ancora qualche lacuna, ma la mia determinazione è sempre la stessa per questa tecnologia."
+        },
+        "philosophie": {
+          "title": "Filosofia",
+          "content": "Sono molto rispettoso del lavoro dei miei colleghi. Impariamo al nostro ritmo e... impariamo alcune cose più velocemente di altre.\n\nSe ho un consiglio da dare, è quello di rimanere umili e di non dimenticare mai da dove si viene... Ricordiamo che a un certo punto della nostra vita siamo stati dei principianti.\n\nLa conoscenza è un lusso che deve essere condiviso e anche se è molto diversa tra un principiante e un esperto ma... Se il \"principiante\" si dà i mezzi per riuscire, è certo che un giorno potremo contare sul suo aiuto.\n\nNon sputiamo su nessuno e continuiamo ad aiutare se possiamo. Rafforzeremo le nostre conoscenze e soprattutto quelle di un argomento che ci appassiona."
+        }
+      },
+      "qrcode": {
+        "boris": {
+          "content": "Grazie a Boris Flesh su udemy"
+        },
+        "dyma": {
+          "content": "Affiliazione alla piattaforma Dyma.fr"
+        }
+      }
+    },
+    "jp": {
+      "author": {
+        "description": {
+          "title": "説明",
+          "content": "私自身の経験もあり、開発者からの要望があれば、定期的に支援を行っています。\nもちろん、私がお手伝いできることは、私の持っている知識の範囲に限られます。"
+        },
+        "info": {
+          "title": "Author（著者）",
+          "content": {
+            "statut": "Professional training trainee",
+            "date": "2022年11月29日から2023年11月28日まで"
+          }
+        },
+        "dyma": "dyma.frプラットフォームへのアフィリエイトリンク"
+      },
+      "source": {
+        "why": {
+          "title": "なぜ !?",
+          "content": "私はnodeJSが大好きで、この技術をできるだけ頻繁に実践しています。まだまだギャップはありますが、この技術に対する決意は変わりません。"
+        },
+        "philosophie": {
+          "title": "フィロソフィー",
+          "content": "私は、同僚の仕事をとても尊重しています。私たちは自分のペースで学び、そして...あるものは他のものよりも早く学ぶ。\n\nひとつだけアドバイスがあるとすれば、謙虚でいること、そして自分がどこから来たのかを忘れないことです......。私たちは、人生のある時期、初心者だったということを心に留めておこう。\n\n知識は共有されなければならない贅沢なものであり、たとえそれが初心者と専門家の間で全く異なるものであったとしても、... 初心者が成功するための手段を自ら与えれば、いつか必ずその助けを借りることができる。\n\n誰にも唾を吐かず、できる限りの支援を続けよう。私たちは知識を強化し、特に情熱を注いでいるテーマについては、その知識を強化します。"
+        }
+      },
+      "qrcode": {
+        "boris": {
+          "content": "udemyのBoris Fleshに感謝します。"
+        },
+        "dyma": {
+          "content": "Dyma.frのプラットフォームへの所属"
+        }
+      }
+    }
+  }
+}
