@@ -47,6 +47,9 @@ Ainsi une fois les droits octroyés, pour lancer le programme il suffira d'exéc
 node --no-warnings ./btc.js
 ```
 
+> Le rendu sur windows laisse à désiré mais il fonctionne.
+
+
 ## Des arguments ?
 
 En effet il est possible de lancer quelques arguments. Je vais vous enumérer toutes les routes possibles.
