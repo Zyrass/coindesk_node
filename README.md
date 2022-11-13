@@ -30,17 +30,21 @@ il faudra lui administrer les droits d'exécution afin de pouvoir exécuter le p
 
 ```sh
 # Sur ubuntu et sur mac (à tester je n'ai pas de mac)...
-# A tester sur windows... je n'ai plus touché à cet OS depuis 3 ans...
 chmod a+x btc.js
 ```
+Sur windows il faudra utiliser le programme CMDER afin de lui administrer les droits.
+l'invite de commande est à chié...
 
 ## Exécution du programme
 
 Ainsi une fois les droits octroyés, pour lancer le programme il suffira d'exécuter la commande suivante:
 
 ```sh
-# exécution du programme
+# exécution du programme sur unix
 ./btc.js
+
+# exécution du programme sur windows
+node --no-warnings ./btc.js
 ```
 
 ## Des arguments ?
