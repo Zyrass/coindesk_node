@@ -5,7 +5,7 @@ de la plateform Udemy et initié par **Boris Flesh** (_merci à toi_).
 
 Je tiens également à remercier la plateforme de **DYMA.fr** qui m'a permis d'acquérir un bon niveau en Javascript.
 
-Je me permet de vous transmettre [un lien d'affiliation]("https://dyma.fr/r/5d52bd274e7aec730eb90fde") que vous retrouverez dans le programme via un QR Code.
+Je me permet de vous transmettre [un lien d'affiliation](https://dyma.fr/r/5d52bd274e7aec730eb90fde) que vous retrouverez dans le programme via un QR Code.
 
 J'ai entièrement repris le projet en m'en inspirant afin de lui ajouter énormément de features.
 
