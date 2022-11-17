@@ -117,27 +117,27 @@ function source(lang = "en") {
   if (lang === "en" || lang === undefined) {
     why();
     philosophie();
-    myQrCode.udemyBorisFlesh();
+    myQrCode.udemyBorisFlesch();
   } else if (lang === "fr") {
     why("fr");
     philosophie("fr");
-    myQrCode.udemyBorisFlesh("fr");
+    myQrCode.udemyBorisFlesch("fr");
   } else if (lang == "es") {
     why("es");
     philosophie("es");
-    myQrCode.udemyBorisFlesh("es");
+    myQrCode.udemyBorisFlesch("es");
   } else if (lang == "de") {
     why("de");
     philosophie("de");
-    myQrCode.udemyBorisFlesh("de");
+    myQrCode.udemyBorisFlesch("de");
   } else if (lang == "it") {
     why("it");
     philosophie("it");
-    myQrCode.udemyBorisFlesh("it");
+    myQrCode.udemyBorisFlesch("it");
   } else if (lang == "jp") {
     why("jp");
     philosophie("jp");
-    myQrCode.udemyBorisFlesh("jp");
+    myQrCode.udemyBorisFlesch("jp");
   }
 }
 

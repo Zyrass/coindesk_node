@@ -36,7 +36,7 @@ function coindesk() {
  * Génère un QR Code qui permettra une redirection vers la formation qui m'a inspiré pour ce projet.
  * @params {string}
  */
-function udemyBorisFlesh(lang = "en") {
+function udemyBorisFlesch(lang = "en") {
   qrcode.generate(
     "https://www.udemy.com/course/maitriser-nodejs-et-son-ecosysteme-npm-express-mongo/",
     { small: true },
@@ -116,6 +116,6 @@ function affiliationDyma(lang = "en") {
 
 export default {
   coindesk,
-  udemyBorisFlesh,
+  udemyBorisFlesch,
   affiliationDyma,
 };

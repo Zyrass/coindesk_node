@@ -1,7 +1,7 @@
 # Coindesk via node.js
 
 J'apprends à utiliser le shebang mis à disposition par nodeJS via un petit projet qui était avant tout un projet de démonstration issue
-de la plateform Udemy et initié par **Boris Flesh** (_merci à toi_).
+de la plateform Udemy et initié par **Boris Flesch** (_merci à toi_).
 
 Je tiens également à remercier la plateforme de **DYMA.fr** qui m'a permis d'acquérir un bon niveau en Javascript.
 
